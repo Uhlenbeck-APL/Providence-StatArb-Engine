@@ -1,8 +1,7 @@
-!pip install websockets==13.0 --force-reinstall
-
-!pip install --upgrade yfinance
-
-!pip install yfinance pandas
+import alpaca_trade_api as tradeapi
+import yfinance as yf
+import time
+from datetime import datetime
 
 import yfinance as yf
 import pandas as pd
