@@ -241,8 +241,6 @@ for i in range(5): # Pour ce test sur Colab, on le limite à 5 scans (5 minutes)
 print("-" * 60)
 print("FIN DU CYCLE DE TEST.")
 
-!pip install alpaca-trade-api
-
 import alpaca_trade_api as tradeapi
 
 # 1. Tes identifiants de connexion (À REMPLACER PAR TES VRAIES CLÉS)
