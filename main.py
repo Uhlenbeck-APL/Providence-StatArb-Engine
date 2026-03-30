@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 import time
 from datetime import datetime
-
+import os
 
 API_KEY = "PKQYAQ2XY4EAOFZODYC76JMOSW"
 SECRET_KEY = "GCj4nvapihCxJeBchnVFuYx79fAxcTx94DB1dK4jpPrL"
