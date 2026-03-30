@@ -1,4 +1,4 @@
-# Providence-Quant-Bot
+# Providence-StatArb-Engine
 objectif : Exploiter les inefficiences de prix entre deux actifs co-intégrés (NVDA/AMD)
 
 La logique mathématique : Expliquer brièvement le calcul du Z-Score
