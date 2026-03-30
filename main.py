@@ -5,8 +5,8 @@ import time
 from datetime import datetime
 import os
 
-API_KEY = "PKQYAQ2XY4EAOFZODYC76JMOSW"
-SECRET_KEY = "GCj4nvapihCxJeBchnVFuYx79fAxcTx94DB1dK4jpPrL"
+API_KEY = os.environ.get("ALPACA_API_KEY")
+SECRET_KEY = os.environ.get("ALPACA_SECRET_KEY")
 BASE_URL = "https://paper-api.alpaca.markets"
 
 # Connexion à Alpaca
