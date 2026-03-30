@@ -3,4 +3,4 @@ objectif : Exploiter les inefficiences de prix entre deux actifs co-intégrés (
 
 La logique mathématique : Expliquer brièvement le calcul du Z-Score
 
-L'architecture technique : Citer Python, yfinance, Alpaca API et le déploiement Cloud
+L'architecture technique : Python, yfinance, Alpaca API et le déploiement Cloud
